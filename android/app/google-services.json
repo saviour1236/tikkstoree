@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349841041885",
+    "project_id": "mytikstore-cd9de",
+    "storage_bucket": "mytikstore-cd9de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349841041885:android:14f7b08f8a8555c4f26e34",
+        "android_client_info": {
+          "package_name": "com.example.tikstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0fAkHSAhYO8I__GV5Y7ba1VJ144rxgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
